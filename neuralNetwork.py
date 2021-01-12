@@ -9,3 +9,4 @@ pred = neural_network(input,weight)
 print(pred)
 
 # output should be 0.8500000000000001
+#because pred = 8.5 * 0.1
